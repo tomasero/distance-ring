@@ -1,0 +1,1 @@
+Import Sharp Folder into arduino libraries -- open the sharp example
